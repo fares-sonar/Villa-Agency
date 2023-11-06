@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Villa-Agency/static/css/main.5dc6bca0.css",
+    "main.js": "/Villa-Agency/static/js/main.f114ab96.js",
+    "static/media/banner-01.jpg": "/Villa-Agency/static/media/banner-01.618c0937da57298567aa.jpg",
+    "static/media/video-frame.jpg": "/Villa-Agency/static/media/video-frame.c416cfb905b16c8ca4ae.jpg",
+    "static/media/contact-bg.jpg": "/Villa-Agency/static/media/contact-bg.180751c8d47a7f815c65.jpg",
+    "static/media/featured.jpg": "/Villa-Agency/static/media/featured.e1e50efe594258a77cc1.jpg",
+    "static/media/video-bg.jpg": "/Villa-Agency/static/media/video-bg.821fe5d396c8987ce7f7.jpg",
+    "static/media/property-02.jpg": "/Villa-Agency/static/media/property-02.fa9439dc0950758d17d5.jpg",
+    "static/media/property-01.jpg": "/Villa-Agency/static/media/property-01.d48465143efe7727ed57.jpg",
+    "static/media/property-03.jpg": "/Villa-Agency/static/media/property-03.999d1f9274e3400b47c1.jpg",
+    "static/media/property-04.jpg": "/Villa-Agency/static/media/property-04.1b15b37291544b9b7b89.jpg",
+    "static/media/property-05.jpg": "/Villa-Agency/static/media/property-05.56a0cc5135d8d50386c2.jpg",
+    "static/media/property-06.jpg": "/Villa-Agency/static/media/property-06.d9cdc70ecba7965ed667.jpg",
+    "index.html": "/Villa-Agency/index.html",
+    "main.5dc6bca0.css.map": "/Villa-Agency/static/css/main.5dc6bca0.css.map",
+    "main.f114ab96.js.map": "/Villa-Agency/static/js/main.f114ab96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc6bca0.css",
+    "static/js/main.f114ab96.js"
+  ]
+}
